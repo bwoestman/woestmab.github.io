@@ -1,0 +1,17 @@
+.DS_Store
+.agignore
+node_modules
+bower_components
+/selenium
+/coverage
+/app/assets
+/nbproject/private/
+/npm-debug.log
+/public_html/mountebank-UI/assets/js/
+/reports/
+/mb.pid
+/mb*.log
+/build/
+/docs/madjs/mb.log
+/docs/madjs/mb.pid
+.idea/*
